@@ -1,3 +1,4 @@
+
 <%--
 - menu.jsp
 -
@@ -19,7 +20,14 @@
 <acme:menu-bar code="master.menu.home">
 	<acme:menu-left>
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
-			<acme:menu-suboption code="F�lix's favourite link" action="http://www.twitch.tv/illojuan"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link" action="http://www.example.com/"/>
+
+			<acme:menu-suboption code="Garcia Marchena's Link" action="https://www.youtube.com/channel/UChC0NFbF5sO56j6i4G2BEEw"/>
+
+			<acme:menu-suboption code="Díaz Correa´s Link" action="https://github.com/"/>
+      
+      <acme:menu-suboption code="F�lix's favourite link" action="http://www.twitch.tv/illojuan"/>
+
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
