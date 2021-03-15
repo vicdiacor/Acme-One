@@ -10,14 +10,14 @@
 
 # master.banner.welcome #######################################################
 
-master.banner.background = #FFE97F 
+master.banner.background = #000000
 
 ﻿# master.welcome ##############################################################
 
 master.welcome.title = ¡Bienvenidos!
 master.welcome.text = \
-	Bienvenidos a Acme Stater!  Nunca antes ha sido tan sencillo desarrollar un \
-	proyecto y hacerlo funcionar.
+	Bienvenidos a Acme-One! El primer proyecto desplegado de nuestro grupo para el entregable D01!
+	
 
 # master.menu #################################################################
 
@@ -73,27 +73,28 @@ master.footer.label.spanish = Español
 
 # master.company ##############################################################
 
-master.company.title = La compañía
+master.company.title = Grupo 30 Company
 master.company.text = \
-	Starter Project, Inc. es una compañía fictícia que proporciona un proyecto \
-	plantilla para los estudiantes de la asignatura Diseño y Pruebas, en el Grado \
-	en Ingeniería del Software de la Universidad de Sevilla.
-master.company.name = Starter Project, Inc.
-master.company.address = Calle, número, Ciudad, Estado, País
+	Grupo 30 Company, es una compañía fictícia que porporciona un proyecto base para \
+	el primer entregable D01, para la asignatura DP2 del grado  \
+	en Ingeniería del Software de la Universidad de Sevilla
+master.company.name = Grupo 30 Company
+master.company.address = Avenida Reina Mercedes , número 4 , Sevilla, Sevilla , España
 master.company.phone = +000 123 456
-master.company.email = contact@acme.com
+master.company.email = grupo30@acme.com
 
 # master.license ##############################################################
 
 master.license.title = Licencia
 master.license.text = \
-	Puede usar este sistema de forma completamente gratuita respetando las leyes \
+
+	sistema de forma completamente gratuita respetando las leyes \
 	que sean aplicables.  No compartimos ninguna información sobre Ud. con ninguna \
 	otra empresa.  Tan sólo usamos tres cookies, a saber: "JSESSIONID" para identificar \
 	su sesión de trabajo, "remember" para mantener su información de autentificación \
 	durante un máximo de 31 días y "language" para almacenar sus preferencias de \
 	lenguage.  Además, almacenamos un ítem llamado "returnStack" en el almacenamiento \
-	local de su navegador para saber dónde tienen que ir algunos botones.
+	local de su navegador para saber dónde tienen que ir algunos botones.Puede usar este 
 
 # master.panic ################################################################
 
