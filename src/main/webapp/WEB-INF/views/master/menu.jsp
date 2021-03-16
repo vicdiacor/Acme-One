@@ -23,11 +23,17 @@
 
 			<acme:menu-suboption code="Garcia Marchena's Link" action="https://www.youtube.com/channel/UChC0NFbF5sO56j6i4G2BEEw"/>
 
-			<acme:menu-suboption code="Díaz Correa´s Link" action="https://github.com/"/>
+			<acme:menu-suboption code="Diaz Correa's Link" action="https://www.google.es/"/>
       
-      <acme:menu-suboption code="F�lix's favourite link" action="http://www.twitch.tv/illojuan"/>
+      <acme:menu-suboption code="Felix's link" action="http://www.twitch.tv/illojuan"/>
       
-      	<acme:menu-suboption code="Gomez Perez's link" action="https://github.com/alvgomper1"/>
+
+      	<acme:menu-suboption code="Gomez Perez's link" action="https://github.com/alvgomper1"/>>
+      
+      <acme:menu-suboption code="Toledo Vega's Link" action="https://github.com/jvegax"/>
+      
+      <acme:menu-suboption code="Duran Gonzalez's Link" action="http://www.villafrancadelosbarros.es/"/>
+
 
 		</acme:menu-option>
 
@@ -63,7 +69,6 @@
 
 		<acme:menu-option code="master.menu.sign-out" action="/master/sign-out" access="isAuthenticated()"/>
 	</acme:menu-right>
+
 </acme:menu-bar>
-
-
 

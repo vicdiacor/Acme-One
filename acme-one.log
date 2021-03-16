@@ -1,3 +1,4 @@
+
 INFO [acme.Launcher] Starting Launcher using Java 1.8.0_281 on LAPTOP-MDRFFE8N with PID 18944 (C:\Users\Vicente\Workspace-21.1\Starters\Starter-Project\target\classes started by Vicente in C:\Users\Vicente\Workspace-21.1\Starters\Starter-Project)
 INFO [acme.Launcher] The following profiles are active: development,populator
 INFO [acme.Launcher] Starting Launcher using Java 1.8.0_281 on LAPTOP-MDRFFE8N with PID 13516 (C:\Users\Vicente\Workspace-21.1\Starters\Starter-Project\target\classes started by Vicente in C:\Users\Vicente\Workspace-21.1\Starters\Starter-Project)
@@ -55,4 +56,5 @@ Description:
 Web server failed to start. Port 8080 was already in use.
 Action:
 Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
 
