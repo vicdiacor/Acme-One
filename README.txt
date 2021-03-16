@@ -8,7 +8,7 @@
 # purposes.  The copyright owner does not offer any warranties or representations, nor do
 # they accept any liabilities with respect to them.
 
-This is the Starter Project, which is intended to be a core learning asset for the students
-who have enroled the Design and Testing subject of the Software Engineering curriculum of the 
-University of Sevilla.  This project helps them start working on their new information system 
-projects.
+
+# Este es el proyecto "Acme-One", basado en el proyecto "Starter-Project". Se utilizará para el
+# primer entregable de la asignatura DP2, del grado de Ingeniería Informática - Ingeniería del Software
+# de la Universidad de Sevilla.
