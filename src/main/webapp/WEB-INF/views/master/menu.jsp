@@ -1,4 +1,5 @@
 
+
 <%--
 - menu.jsp
 -
@@ -95,6 +96,8 @@
       	<acme:menu-suboption code="Alvaro Gomez Perez" action="https://github.com/alvgomper1"/>
       
       <acme:menu-suboption code="Toledo Vega�s Link" action="https://github.com/jvegax"/>
+      
+      <acme:menu-suboption code="Duran Gonzalez�s Link" action="http://www.villafrancadelosbarros.es/"/>
 
 		</acme:menu-option>
 
@@ -131,3 +134,4 @@
 		<acme:menu-option code="master.menu.sign-out" action="/master/sign-out" access="isAuthenticated()"/>
 	</acme:menu-right>
 </acme:menu-bar>
+
