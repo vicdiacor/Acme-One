@@ -26,7 +26,7 @@
 
 			<acme:menu-suboption code="Díaz Correa´s Link" action="https://github.com/"/>
       
-      <acme:menu-suboption code="F�lix's favourite link" action="http://www.twitch.tv/illojuan"/>
+      <acme:menu-suboption code="Conde Marron's favourite link" action="http://www.twitch.tv/illojuan"/>
 
 		</acme:menu-option>
 
