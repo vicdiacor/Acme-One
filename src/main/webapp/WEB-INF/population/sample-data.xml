@@ -49,6 +49,18 @@
 		<property name="info" value="http://www.sample-app.com"/>
 	</bean>
 	
+	<!-- Tasks-->
+	<bean id="task01" class="acme.entities.tasks.Task">
+		<property name="title" value="Example task 1"/>
+		<property name="startDate" value="2021/07/08 00:00"/>
+		<property name="endDate" value="2021/07/10 00:00"/>
+		<property name="workload" value="0.2"/>
+		<property name="description" value="This is the oldest announcement in the system."/>	
+		<property name="optionalLink" value="http://www.sample-app.com"/>	
+	</bean>
+	
+
+	
 	<!-- Announcements-->
 	
 	<bean id="announcement01" class="acme.entities.announcements.Announcement">
