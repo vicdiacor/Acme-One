@@ -33,6 +33,8 @@ master.menu.anonymous = Anonymous
 master.menu.anonymous.all-jobs = List all jobs
 master.menu.anonymous.list-shouts = List shouts
 master.menu.anonymous.create-shout = Shout!
+master.menu.anonymous.list-task = List task
+master.menu.anonymous.list-task-not-ended = List task not ended
 
 # master.menu.authenticated #######################################################
 
