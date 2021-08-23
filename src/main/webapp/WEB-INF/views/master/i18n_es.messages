@@ -30,6 +30,11 @@ master.menu.sign-out = Salir
 
 master.menu.anonymous = Anónimo
 master.menu.anonymous.favourite-link = Enlace favorito
+master.menu.anonymous.favourite-Diaz-Correa = Enlace de Diaz Correa
+master.menu.anonymous.favourite-Conde-Marron = Enlace de Conde Marron 
+master.menu.anonymous.favourite-Gomez-Perez = Enlace de Gomez Perez 
+master.menu.anonymous.favourite-Toledo-Vega = Enlace de Toledo Vega 
+master.menu.anonymous.favourite-Duran-Gonzalez = Enlace de Duran Gonzalez
 
 # master.menu.administrator ###################################################
 
