@@ -25,7 +25,7 @@
       
 			<acme:menu-suboption code="master.menu.anonymous.favourite-Conde-Marron" action="http://www.twitch.tv/illojuan"/>
 
-			<acme:menu-suboption code="master.menu.anonymous.favourite-link-Gomez-Perez" action="https://github.com/alvgomper1"/>>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-Gomez-Perez" action="https://github.com/alvgomper1"/>>
       
       			<acme:menu-suboption code="master.menu.anonymous.favourite-Toledo-Vega" action="https://github.com/jvegax"/>
       
