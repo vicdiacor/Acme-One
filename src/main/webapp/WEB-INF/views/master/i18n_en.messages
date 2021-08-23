@@ -29,6 +29,11 @@ master.menu.sign-out = Sign out
 
 master.menu.anonymous = Anonymous
 master.menu.anonymous.favourite-link = Favourite link
+master.menu.anonymous.favourite-Diaz-Correa = Diaz Correa´s Link
+master.menu.anonymous.favourite-Conde-Marron = Conde Marron´s Link 
+master.menu.anonymous.favourite-Gomez-Perez = Gomez Perez´s Link 
+master.menu.anonymous.favourite-Toledo-Vega = Toledo Vega´s Link 
+master.menu.anonymous.favourite-Duran-Gonzalez = Duran Gonzalez´s Link
 
 # master.menu.administrator ###################################################
 
