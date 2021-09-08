@@ -14,3 +14,5 @@
 # de la Universidad de Sevilla.
 
 URL de inicio: http://localhost:8080/Acme-One/master/welcome
+
+GitHub Release: https://github.com/vicdiacor/Acme-One/tree/v1.2
