@@ -12,3 +12,5 @@
 # Este es el proyecto "Acme-One", basado en el proyecto "Starter-Project". Se utilizará para el
 # primer entregable de la asignatura DP2, del grado de Ingeniería Informática - Ingeniería del Software
 # de la Universidad de Sevilla.
+
+URL de inicio: http://localhost:8080/Acme-One/master/welcome
